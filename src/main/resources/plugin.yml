@@ -1,0 +1,4 @@
+name: TradeSystem
+version: ${project.version}
+main: me.sammekekko.tradesystem.Main
+api-version: 1.15

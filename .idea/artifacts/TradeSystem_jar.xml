@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TradeSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TradeSystem_jar</output-path>
+    <root id="archive" name="TradeSystem.jar">
+      <element id="module-output" name="TradeSystem" />
+    </root>
+  </artifact>
+</component>
