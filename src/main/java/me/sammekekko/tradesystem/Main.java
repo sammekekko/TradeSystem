@@ -7,7 +7,7 @@ public final class Main extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        System.out.println("TradeSystem Initialized");
+        System.out.println("TradeSystem Initializeds");
     }
 
     @Override
